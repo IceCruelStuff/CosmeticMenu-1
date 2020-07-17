@@ -3,7 +3,7 @@
 # CosmeticMenu
 Fun and Easy-to-Use Cosmetic plugin with gadgets, particles, trails, suits and morphs. A Easy config and tons of permissions.
 
-Our Discord: https://discord.gg/PsMYb6Q
+[![Discord](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=normal&colorB=7289da)](https://discord.gg/PsMYb6Q)
 
 ## Plugins Required
  - MorphX
